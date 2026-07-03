@@ -79,7 +79,6 @@ This analysis answers the following questions:
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot here.
 
 ![Dashboard](dashboard.png)
 ![alt text](image.png)
